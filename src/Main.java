@@ -7,7 +7,7 @@ public class Main {
 
       Earth earth=new Earth();
       earth.color="white";
-      earth.heat=1234;
+      earth.heat="1234";
       earth.temperature="56789";
     }
 }
